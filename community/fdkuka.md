@@ -14,6 +14,5 @@ Eu sou uma pessoa desenvolvedora full-stack...
 
 
 ## Autores
-
 - [@fdkuka](https://www.github.com/fdkuka)
 
